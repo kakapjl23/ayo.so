@@ -1,5 +1,3 @@
-# ayo.so
-nothing
 <!DOCTYPE html>
 <html lang="pt">
 <head>
